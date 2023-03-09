@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**lchrisg/lchrisg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> http://localhost:8080/glalvarado/index.html
 
-Here are some ideas to get you started:
+# Hi, I'm Christian ✋🏻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🖥️ Estudiante de Desarrollo de Software
+
+### 📚 Bootcamp Full-Stack JavaScript - Guillermo Rodas en Udefined Academy
+
+# Estos son los 5 comando
+
+| comando | Descripción                         |
+|---------|------------------------------------ |
+| ls      | Lista el contenido de un directorio |
+| cd      | Permite cambiar entre directorios   |
+| yarn    | Instalar dependencias               |
+| gst     | Alias de git status                 |
+| clear   | Limpiar la terminal                 | 
+| alias   | Listar los alias                    |
+
+# Alias mas usados
